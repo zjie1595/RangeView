@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="touch_threshold">16dp</dimen>
+    <dimen name="thumb_width">24dp</dimen>
+</resources>
